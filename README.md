@@ -1,11 +1,12 @@
-### Olá, meu nome é Pedro Henrique, seja bem-vindo 👋
+### Olá, meu nome é Pedro Henrique, seja bem-vindo! 👋
 
 💻 | Desenvolvedor Full Stack Junior <br>
 🏄 | SP 013 <br>
 ♊ | 22y
 
 <hr>
-Github Stats:
+
+<h1> Github Stats: </h1>
 
 [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdrobzr&show_icons=true&theme=radical)]([https://github.com/pdrobzr/github-readme-stats](https://github-readme-stats.vercel.app/api?username=pdrobzr&show_icons=true&theme=radical))
 
