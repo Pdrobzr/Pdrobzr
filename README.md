@@ -88,6 +88,13 @@
     src="https://github-readme-stats.vercel.app/api?username=pdrobzr&show_icons=true&theme=radical" 
 />
 
-[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdrobzr&show_icons=true&theme=radical)]([https://github.com/pdrobzr/github-readme-stats](https://github-readme-stats.vercel.app/api?username=pdrobzr&show_icons=true&theme=radical))
+<img 
+    align="left" 
+    alt="Top Langs"
+    title="Top Langs" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrobzr&layout=compact&theme=radical" 
+/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdrobzr&layout=compact&theme=radical)]([https://github.com/pdrobzr/github-readme-stats](https://github-readme-stats.vercel.app/api?username=pdrobzr&show_icons=true&theme=radical))
+
