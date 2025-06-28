@@ -79,13 +79,15 @@
 
 <h1> Github Stats: </h1>
 
+<p>
+
 <img 
     align="left" 
     alt="Github Stats"
     title="Github Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=pdrobzr&show_icons=true&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api?username=Pdrobzr&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
 />
 
 <img 
@@ -94,7 +96,9 @@
     title="Top Langs" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrobzr&layout=compact&theme=radical" 
+    src="hhttps://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
+
+</p>
 
 
