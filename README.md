@@ -79,28 +79,13 @@
 
 <h1> Github Stats: </h1>
 
-<p>
-
-<img 
-    align="left" 
-    alt="Github Stats"
-    title="Github Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pdrobzr&show_icons=true&theme=radical&include_all_commits=true" 
-/>
-
-<br>
-
-<img 
-    align="left" 
-    alt="Top Langs"
-    title="Top Langs" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pdrobzr&layout=compact&langs_count=8&theme=radical" 
-/>
-
+<p align = "left">
+<a href="https://github.com/Pdrobzr">
+  <img height = "180em" src = "https://github-readme-stats-eight-theta.vercel.app/api?username=Pdrobzr&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height = "180em" src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pdrobzr&layout=compact&langs_count=8&theme=radical" />
+</a>
 </p>
+
+
 
 
