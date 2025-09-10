@@ -79,14 +79,14 @@
 
 <h1> Github Stats: </h1>
 
-<p>
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 20px">
 
 <img 
     align="left" 
     alt="Github Stats"
     title="Github Stats" 
     height="200" 
-    style="padding-right: 10px; margin-bottom: 100px" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pdrobzr&show_icons=true&theme=radical&include_all_commits=true" 
 />
 
@@ -99,6 +99,6 @@
     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pdrobzr&layout=compact&langs_count=8&theme=radical" 
 />
 
-</p>
+</div>
 
 
