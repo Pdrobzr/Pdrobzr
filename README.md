@@ -87,7 +87,7 @@
     title="Github Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Pdrobzr&show_icons=true&theme=radical&locale=pt-br" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pdrobzr&show_icons=true&theme=radical&include_all_commits=true" 
 />
 
 <img 
@@ -96,7 +96,7 @@
     title="Top Langs" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pdrobzr&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pdrobzr&layout=compact&langs_count=8&theme=radical" 
 />
 
 </p>
