@@ -79,7 +79,7 @@
 
 <h1> Github Stats: </h1>
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 20px">
+<p>
 
 <img 
     align="left" 
@@ -90,6 +90,8 @@
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pdrobzr&show_icons=true&theme=radical&include_all_commits=true" 
 />
 
+<br>
+
 <img 
     align="left" 
     alt="Top Langs"
@@ -99,6 +101,6 @@
     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pdrobzr&layout=compact&langs_count=8&theme=radical" 
 />
 
-</div>
+</p>
 
 
