@@ -86,7 +86,7 @@
     alt="Github Stats"
     title="Github Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 100px" 
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pdrobzr&show_icons=true&theme=radical&include_all_commits=true" 
 />
 
